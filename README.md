@@ -89,7 +89,7 @@ State is managed at the **App level**:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/portfolio-app.git
+   git clone https://github.com/wanja-juma/SPA-React-Portfolio-Platform.git
    cd portfolio-app
    ```
 
@@ -121,7 +121,7 @@ State is managed at the **App level**:
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 *  Add project images
 *  Add tags/categories
@@ -131,13 +131,13 @@ State is managed at the **App level**:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
 
