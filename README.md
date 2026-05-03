@@ -90,7 +90,7 @@ State is managed at the **App level**:
 
    ```bash
    git clone https://github.com/wanja-juma/SPA-React-Portfolio-Platform.git
-   cd portfolio-app
+   cd spa-react-portfolio-platform
    ```
 
 2. **Install dependencies**
@@ -108,7 +108,7 @@ State is managed at the **App level**:
 4. Open in browser:
 
    ```
-   http://localhost:5176
+   http://localhost:5174
    ```
 
 ---
