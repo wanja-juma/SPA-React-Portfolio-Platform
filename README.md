@@ -108,7 +108,7 @@ State is managed at the **App level**:
 4. Open in browser:
 
    ```
-   http://localhost:5173
+   http://localhost:5176
    ```
 
 ---

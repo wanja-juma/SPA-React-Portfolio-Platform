@@ -14,7 +14,7 @@ function ProjectForm({ addProject }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form className="project-form" onSubmit={handleSubmit}>
       <input
         value={title}
         onChange={(e) => setTitle(e.target.value)}
@@ -27,7 +27,7 @@ function ProjectForm({ addProject }) {
         placeholder="Description"
         required
       />
-      <button type="submit">Add Project</button>
+      <button className="btn" type="submit">Add Project</button>
     </form>
   );
 }

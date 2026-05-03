@@ -8,8 +8,11 @@ import "./App.css";
 
 function App() {
   const [projects, setProjects] = useState([
-    { id: 1, title: "Portfolio Website", description: "React + Tailwind" },
-    { id: 2, title: "E-commerce App", description: "Full-stack project" }
+    { id: 1, title: "Dynamic Color Clock", description: "React + Npm" },
+    { id: 2, title: "Portfolio Website", description: "React + Tailwind" },
+    { id: 3, title: "E-commerce App", description: "Full-stack project" },
+    { id: 4, title: "Weather App", description: "API integration" },
+
   ]);
 
   const [searchTerm, setSearchTerm] = useState("");
